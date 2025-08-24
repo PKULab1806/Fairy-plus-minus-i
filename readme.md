@@ -191,3 +191,5 @@ For larger-scale training, you can adjust additional accelerate parameters in th
 - [Fairy±i-700M on ModelScope](https://modelscope.cn/models/PKUDSLAB1806/Fairy-plus-minus-i-700M)
 - [Fairy±i-1.3B on ModelScope](https://modelscope.cn/models/PKUDSLAB1806/Fairy-plus-minus-i-1.3B)
 
+## Paper
+- [iFairy: the First 2-bit Complex LLM with All Parameters in {±1, ±i}](https://arxiv.org/abs/2508.05571)
